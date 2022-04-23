@@ -9,5 +9,5 @@ spec:
     targetPort: 8080-tcp
   to:
     kind: Service
-    name: openshift-tettei-nyumon-spring-petclinicpring-petclinic
+    name: openshift-tettei-nyumon-spring-petclinic
     weight: 100
