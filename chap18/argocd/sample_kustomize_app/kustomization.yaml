@@ -5,5 +5,5 @@ resources:
   - route.yaml
 images:
   - name: quay.io/siamaksade/spring-petclinic
-    newTag: 'a2bc02c9b8a8f7bc2ef107a29bcf88d161f0b85f'
+    newTag: 'latest'
 
